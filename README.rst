@@ -12,3 +12,5 @@ The original materials are `krondo.com <http://krondo.com/blog/?page_id=1327>`_.
 If you are new to Twisted, `Twisted Documentation`_ is a good starting point.
 
 .. _Twisted 文档: http://twistedmatrix.com/documents/10.0.0/core/howto/index.html
+
+.. _Twisted Documentation: http://twistedmatrix.com/documents/10.0.0/core/howto/index.html
